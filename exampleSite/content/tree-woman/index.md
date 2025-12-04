@@ -15,7 +15,7 @@ categories: [
 ]
 
 params:
-  private: true
+  private: false
 
 resources:
   - src: tree_woman.jpg

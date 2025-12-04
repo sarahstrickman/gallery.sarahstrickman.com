@@ -26,7 +26,7 @@ categories: [
 # Params for entire post
 params:
 #   theme: <light|dark>   # artifact from Hugo Gallery theme. I like to keep defaults here.
-  private: false
+  private: true
 
 # Params for individual resources
 resources:

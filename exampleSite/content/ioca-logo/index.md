@@ -10,7 +10,7 @@ categories: [
   "logo"]
 
 params:
-  private: true
+  private: false
   # theme: light
 
 resources:

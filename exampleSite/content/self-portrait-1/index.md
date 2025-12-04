@@ -10,7 +10,7 @@ categories: [
 ]
 
 params:
-  private: true
+  private: false
   # theme: light
 
 resources:

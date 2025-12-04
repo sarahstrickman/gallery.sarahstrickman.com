@@ -7,7 +7,7 @@ weight: 2
 categories: ["commission", "artwork", "illustrations"]
 
 params:
-  private: true
+  private: false
 #   theme: <light|dark>   # artifact from Hugo Gallery theme. I like to keep defaults here.
 
 resources:
