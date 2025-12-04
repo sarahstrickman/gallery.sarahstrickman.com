@@ -4,7 +4,11 @@ description: skdjf
 # menus: "main"
 title: Strickman Endodontics Bay Ridge Dojo
 weight: 2
-categories: ["commission", "artwork", "illustrations"]
+categories: [
+  "commission", 
+  "artwork", 
+  "illustrations"
+  ]
 
 params:
   private: false

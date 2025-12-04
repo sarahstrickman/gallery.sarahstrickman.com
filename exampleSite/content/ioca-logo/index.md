@@ -7,7 +7,8 @@ weight: 2
 categories: [
   "commission", 
   "artwork", 
-  "logo"]
+  "logo"
+  ]
 
 params:
   private: false
