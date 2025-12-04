@@ -1,7 +1,7 @@
 ---
-description: Journal of Personal Creations [website kind of under construction]
+description: Gallery of work I've done [website kind of under construction]
 #lastmod: 2023-07-05
-title: perceocrity
+title: Sarah Strickman
 resources:
   - src: martin-martz-wRuhOOaG-Z4-unsplash.jpg
     params:
